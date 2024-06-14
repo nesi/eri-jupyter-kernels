@@ -1,6 +1,6 @@
 # eRI Jupyter Kernels ( custom) 
 
-Custom Jupyter kernels for Mahuika.
+Custom Jupyter kernels for eRI
 
 * in the `bin` directory there are *wrapper* shell scripts (one for each kernel) that load relevant environment modules before launching the kernel
 * in the `share/jupyter/kernels` directory there is one directory for each kernel
