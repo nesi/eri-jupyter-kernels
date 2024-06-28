@@ -1,0 +1,5 @@
+{
+  "argv": ["ir433-foss-2023a.sh", "--slave", "-e", "IRkernel::main()", "--args", "{connection_file}"],
+  "display_name": "R 4.3.3 (foss-2023a)",
+  "language": "R"
+}
